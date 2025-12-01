@@ -1,0 +1,45 @@
+**Subject: Incident Report - **
+
+Dear [Recipient's Name],
+
+I hope this email finds you well. I am writing to inform you about an incident that occurred on [Date] at [Location]. Please find the details below:
+
+**Incident Information:**
+- **Date and Time of Incident:** [Date] [Time]
+- **Location:** [Location]
+- **Incident Type:**
+- **Persons Involved:**
+
+**Description of Incident:**
+
+
+**Immediate Actions Taken:**
+
+
+**Injuries or Damages:**
+
+
+**Witness Statements:**
+
+
+**Root Cause Analysis:**
+
+
+**Preventive Measures:**
+
+
+**Follow-Up Actions:**
+
+
+**Attachments:**
+
+
+I appreciate your prompt attention to this matter. If you have any questions or require further clarification, please do not hesitate to contact me at [Your Contact Information].
+
+Thank you for your understanding and cooperation.
+
+Best regards,
+
+[Your Full Name]
+[Location]
+[Your Contact Information]
